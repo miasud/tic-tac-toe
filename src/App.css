@@ -39,3 +39,13 @@ body {
 .square:active {
   transform: scale(0.97);
 }
+
+.status {
+  color: #e0e0e0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
